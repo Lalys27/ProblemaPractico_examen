@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56191740384",
+    "project_id": "androidexamen-8659b",
+    "storage_bucket": "androidexamen-8659b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56191740384:android:583163fda1e0b70f802385",
+        "android_client_info": {
+          "package_name": "com.cic.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56191740384-sqtcir6pealdr0q9qnngp4o6e0heakvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFfHZoS65xY4paegnyLpiQPSrd1MZWUfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56191740384-sqtcir6pealdr0q9qnngp4o6e0heakvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
